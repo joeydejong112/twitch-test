@@ -2199,6 +2199,13 @@
     Nu = [],
     Gu = [];
   function Hu(e, t, n) {
+    console.log("e")
+    console.log(e)
+    console.log("y")
+    console.log(y)
+    console.log("n")
+
+    console.log(n)
     (y[e] = new Date().getTime()),
       (w[e] = t),
       (xu[e] = n),
